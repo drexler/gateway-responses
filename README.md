@@ -1,4 +1,6 @@
 ### API Gateway Responses
+[![Build Status](https://travis-ci.org/drexler/gateway-responses.svg?branch=master)](https://travis-ci.org/drexler/gateway-responses.svg?branch=master)
+
 A simple script used to update the default AWS API Gateway response models.
 
 #### Prerequisites
